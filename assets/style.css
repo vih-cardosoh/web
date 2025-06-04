@@ -26,7 +26,7 @@ body {
 
 .cartao__conteudo {
     background-color: var(--card-front-color);
-    text-align: center;
+    text-align: ;
     /* background-color: aquamarine; */
     height: 100%;
     transform-style: preserve-3d;
