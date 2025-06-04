@@ -6,7 +6,8 @@
 
 body {
     background: url('img/bg-desktop.webp');
-    font-family: Bai Jamjuree;
+    /* Fonte Nunito Sans aplicada ao corpo do documento */
+    font-family:'Nunito Sans', sans-serif;
 }
 
 #container {
