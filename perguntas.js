@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'Qual a função do retículo endoplasmático rugoso?',
-    
+    'A função do retículo endoplasmático rugoso é a ptodução de proteínas'
 )
 
 criaCartao(
