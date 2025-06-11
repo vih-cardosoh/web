@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Quando é usado o ING?',
-    'O "ing" em inglês é usado em várias situações, principalmente para formar verbos contínuos (como o presente contínuo, passado contínuo, etc.), para formar substantivos (gerúndios) e também como adjetivo. Além disso, é usado após preposições e em algumas expressões específicas.'
+    'Biologia',
+    'Qual a função do retículo endoplasmático rugoso?',
+    
 )
 
 criaCartao(
-    'Biologia',
-    'Qual a função do retículo endoplasmático rugoso?',
-    'A função do retículo endoplasmatico é a produção de proteínas'
+    'Lingua inglesa',
+    'Quando é usado o ing?',
+    'O "ing" em inglês é usado em várias situações, principalmente para formar verbos contínuos (como o presente contínuo, passado contínuo, etc.), para formar substantivos (gerúndios) e também como adjetivo. Além disso, é usado após preposições e em algumas expressões específicas.'
 )
